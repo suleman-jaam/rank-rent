@@ -1,0 +1,81 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/about.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/basement-flood-cleanup.html",
+      "destination": "/basement-flood-cleanup",
+      "permanent": true
+    },
+    {
+      "source": "/blog.html",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/contact.html",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/locations.html",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/mold-inspection.html",
+      "destination": "/mold-inspection",
+      "permanent": true
+    },
+    {
+      "source": "/mold-remediation.html",
+      "destination": "/mold-remediation",
+      "permanent": true
+    },
+    {
+      "source": "/mold-remediation-downtown-spokane.html",
+      "destination": "/mold-remediation-downtown-spokane",
+      "permanent": true
+    },
+    {
+      "source": "/mold-remediation-north-spokane.html",
+      "destination": "/mold-remediation-north-spokane",
+      "permanent": true
+    },
+    {
+      "source": "/mold-remediation-south-hill.html",
+      "destination": "/mold-remediation-south-hill",
+      "permanent": true
+    },
+    {
+      "source": "/mold-testing.html",
+      "destination": "/mold-testing",
+      "permanent": true
+    },
+    {
+      "source": "/privacy-policy.html",
+      "destination": "/privacy-policy",
+      "permanent": true
+    },
+    {
+      "source": "/services.html",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/water-damage-restoration.html",
+      "destination": "/water-damage-restoration",
+      "permanent": true
+    }
+  ]
+}
